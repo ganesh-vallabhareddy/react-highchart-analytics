@@ -1,0 +1,18 @@
+
+.date-picker {
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
+  }
+  
+  .date-picker input {
+    padding: 10px;
+    border: 2px solid #4CAF50;
+    border-radius: 4px;
+    margin: 0 5px;
+  }
+  
+  .date-picker input:hover {
+    border-color: #45a049;
+  }
+  

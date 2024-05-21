@@ -1,0 +1,16 @@
+.half-yearly-data-container {
+    text-align: center;
+    margin: 20px;
+  }
+  
+  .year-dropdown {
+    padding: 10px;
+    font-size: 16px;
+    margin-bottom: 20px;
+  }
+  
+  .half-yearly-data-chart {
+    margin: 0 auto;
+    max-width: 800px;
+  }
+  
